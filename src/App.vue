@@ -93,7 +93,11 @@ onMounted(() => {
 
 				</div>
 
+<<<<<<< HEAD
 				<input type="submit" value="Add todo" />
+=======
+				<input type="submit" value="Add todo from alec" />
+>>>>>>> 7179c2c481b4c8a7428b7d55c94f061b5ee99756
 			</form>
 		</section>
 
