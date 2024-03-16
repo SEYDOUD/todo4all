@@ -93,7 +93,7 @@ onMounted(() => {
 
 				</div>
 
-				<input type="submit" value="Add todo from alec" />
+				<input type="submit" value="Add todo from seydou" />
 			</form>
 		</section>
 
